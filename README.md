@@ -12,4 +12,4 @@ Basics from various Python libraries based on Pluralsight courses by Janani Ravi
 - Seaborn
 - sklearn
 - scikit-learn
-- statsmodel
+- statsmodel ...etc
